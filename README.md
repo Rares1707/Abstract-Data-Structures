@@ -1,4 +1,4 @@
-# Abstract-Data-Structures
+# Abstract-Data-Types
 
 ## Overview
 These are the Abstract Data Types (ADTs) that I implemented as part of my university's Data Structures and Algorithms module:
